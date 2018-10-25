@@ -1,0 +1,59 @@
+.Home {
+  text-align: center;
+}
+
+.Home-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.Home-header {
+  background-color: maroon;
+  border-radius: 25px 25px 0px 0px;
+  font-size: 20px;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+#intro {
+  background-color: maroon;
+  font-size: 20px;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.Home-intro {
+  display: block;
+  font-size: large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+@keyframes Home-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.Home-header {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border: 20px;
+
+}
+p {
+  text-align: center;
+  background-color: maroon;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 20px;
+
+}
+hr {
+  background-color: white;
+}
+.card1 {
+  border-color: white;
+}
+
+
